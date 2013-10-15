@@ -1,0 +1,53 @@
+
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+}
+
+.hero-unit h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.navbar{
+    margin: 0px;
+}
+
+.navbar-brand{
+    padding: 0px 0px 0px 0px;
+    padding-top: 20px;
+}
+
+.jumbotron{
+    padding: 10px 10px 10px 10px;
+}
+
+.footer{
+    padding-top: 50px;
+}
+
+.content{
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top:10px;
+}
+
+.page-header{
+    background-color: #5FE0E6;
+    padding: 10px 10px 10px 10px;
+    padding-left: 40px;
+    padding-top: 5px;
+    margin: 0px 0px 0px 0px;
+    margin-bottom: 20px;
+    color: white;
+}
