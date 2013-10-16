@@ -39,6 +39,10 @@ angular.module('twachaApp', [])
             templateUrl: 'views/trichology.html',
             controller: 'TrichologyCtrl'
       }).
+      when('/location', {
+            templateUrl: 'views/location.html',
+            controller: 'LocationCtrl'
+      }).
       otherwise({
         redirectTo: '/'
       });
